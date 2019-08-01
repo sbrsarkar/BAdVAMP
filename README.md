@@ -9,4 +9,4 @@ demo_CSMU.m : Compressive Sensing with Matrix Uncertainty (CSMU) problem
 demo_DL.m   : Dictionary Learning problem
 
 
-**Note**: before runnning the files make sure that gampmatlab toolbox is added to Matlab's path.
+**Note**: before runnning the files make sure that the [gampmatlab](https://sourceforge.net/projects/gampmatlab/) toolbox is added to Matlab's path. 
