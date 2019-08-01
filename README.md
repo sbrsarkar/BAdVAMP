@@ -5,4 +5,5 @@ BAdVAMP is an algorithm based on [VAMP](https://ieeexplore.ieee.org/document/800
 There are two example files provided,
 
 demo_CSMU.m : Compressive Sensing with Matrix Uncertainty (CSMU) problem 
+
 demo_DL.m   : Dictionary Learning problem
