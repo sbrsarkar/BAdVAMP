@@ -7,3 +7,5 @@ There are two example files provided,
 demo_CSMU.m : Compressive Sensing with Matrix Uncertainty (CSMU) problem 
 
 demo_DL.m   : Dictionary Learning problem
+
+Note: before runnning the files make sure that gampmatlab toolbox is added to Matlab's path.
